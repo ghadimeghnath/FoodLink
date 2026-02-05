@@ -1,11 +1,5 @@
 ﻿# 🟢 Project Name: FoodLink
 
-## 📌 Problem Statement ID: CS01SW  
-## 👥 Team Name: ThunderBolts 
-## 🏫 College Name: VVM's SHREE DAMODAR COLLEGE OF COMMERCE AND ECONOMICS
-
----
-
 ## 📖 Problem Statement
 
 Building a digital platform to connect surplus food sources with NGOS for real-time redistribution and waste reduction
